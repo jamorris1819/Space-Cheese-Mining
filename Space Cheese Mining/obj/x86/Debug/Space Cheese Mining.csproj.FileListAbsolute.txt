@@ -1,0 +1,30 @@
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\obj\x86\Debug\Space Cheese Mining.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Fonts\mainFont.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\pixel.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Space Cheese Mining.exe
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Space Cheese Mining.pdb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Screen Management Library.dll
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Screen Management Library.pdb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\obj\x86\Debug\Space Cheese Mining.exe
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\obj\x86\Debug\Space Cheese Mining.pdb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Fonts\titleFont.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\blue.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\tile.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Fonts\smallFont.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\player1.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\player2.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\player3.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\player4.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Die\die1.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Die\die2.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Die\die3.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Die\die4.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Die\die5.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Die\die6.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Buttons\left.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Buttons\right.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Buttons\up.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Buttons\down.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\cheese.xnb
+\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\tileHover.xnb

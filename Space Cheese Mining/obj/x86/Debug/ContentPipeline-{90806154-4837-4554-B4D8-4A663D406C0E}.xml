@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\mainFont.spritefont</Source>
+      <Name>Fonts\mainFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Fonts\mainFont.xnb</Output>
+      <Time>2015-11-11T17:07:42.9501435+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\titleFont.spritefont</Source>
+      <Name>Fonts\titleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Fonts\titleFont.xnb</Output>
+      <Time>2015-11-11T17:18:02.997964+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\smallFont.spritefont</Source>
+      <Name>Fonts\smallFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Fonts\smallFont.xnb</Output>
+      <Time>2015-11-11T18:17:59.103714+00:00</Time>
+    </Item>
+    <Item>
+      <Source>pixel.png</Source>
+      <Name>pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\pixel.xnb</Output>
+      <Time>2015-11-11T17:07:42.9661435+00:00</Time>
+    </Item>
+    <Item>
+      <Source>blue.png</Source>
+      <Name>blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\blue.xnb</Output>
+      <Time>2015-11-11T17:20:00.1304917+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tile.png</Source>
+      <Name>tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\tile.xnb</Output>
+      <Time>2015-11-11T18:07:05.2056741+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player4.png</Source>
+      <Name>player4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\player4.xnb</Output>
+      <Time>2015-11-11T18:22:35.1697164+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player3.png</Source>
+      <Name>player3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\player3.xnb</Output>
+      <Time>2015-11-11T18:30:08.2879731+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player1.png</Source>
+      <Name>player1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\player1.xnb</Output>
+      <Time>2015-11-11T18:33:13.7087782+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player2.png</Source>
+      <Name>player2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\player2.xnb</Output>
+      <Time>2015-11-11T18:34:53.9157782+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\left.png</Source>
+      <Name>Buttons\left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Buttons\left.xnb</Output>
+      <Time>2015-11-16T17:21:24.922349+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\right.png</Source>
+      <Name>Buttons\right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Buttons\right.xnb</Output>
+      <Time>2015-11-16T17:21:24.9523484+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\up.png</Source>
+      <Name>Buttons\up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Buttons\up.xnb</Output>
+      <Time>2015-11-16T17:21:25.0023474+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\down.png</Source>
+      <Name>Buttons\down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Buttons\down.xnb</Output>
+      <Time>2015-11-16T17:21:25.0323468+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Die\die1.png</Source>
+      <Name>Die\die1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Die\die1.xnb</Output>
+      <Time>2015-11-16T17:36:52.0358718+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Die\die2.png</Source>
+      <Name>Die\die2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Die\die2.xnb</Output>
+      <Time>2015-11-16T17:36:52.075871+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Die\die3.png</Source>
+      <Name>Die\die3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Die\die3.xnb</Output>
+      <Time>2015-11-16T17:36:52.1158702+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Die\die4.png</Source>
+      <Name>Die\die4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Die\die4.xnb</Output>
+      <Time>2015-11-16T17:36:51.8858748+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Die\die5.png</Source>
+      <Name>Die\die5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Die\die5.xnb</Output>
+      <Time>2015-11-16T17:36:51.9458736+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Die\die6.png</Source>
+      <Name>Die\die6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\Die\die6.xnb</Output>
+      <Time>2015-11-16T17:36:51.9958726+00:00</Time>
+    </Item>
+    <Item>
+      <Source>cheese.png</Source>
+      <Name>cheese</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\cheese.xnb</Output>
+      <Time>2015-11-16T17:59:06.5207982+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tileHover.png</Source>
+      <Name>tileHover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\tileHover.xnb</Output>
+      <Time>2015-11-12T17:32:58.7060791+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{90806154-4837-4554-B4D8-4A663D406C0E}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining (Content)\</RootDirectory>
+      <LoggerRootDirectory>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\</LoggerRootDirectory>
+      <IntermediateDirectory>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>\\data.adir.hull.ac.uk\home5\505\505183\Desktop\COURSEWORK\Space Cheese Mining\Space Cheese Mining\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-08-28T13:06:00.9568646+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
